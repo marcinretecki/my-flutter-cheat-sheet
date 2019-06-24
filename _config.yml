@@ -26,8 +26,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "My Flutter Cheat Sheet on GitHub":
+    - "https://github.com/marcinretecki/my-flutter-cheat-sheet"
 
 # Theme
 remote_theme: pmarsceill/just-the-docs
